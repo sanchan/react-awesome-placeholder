@@ -2,7 +2,21 @@
   "name": "react-awesome-placeholder",
   "version": "0.1.0",
   "main": "lib/index.js",
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanchan/react-awesome-placeholder"
+  },
+  "keywords": [
+    "react-component",
+    "react",
+    "placeholder",
+  ],
+  "author": {
+    "name": "Danilo Vladimiro Borek",
+    "email": "danilo.dev@gmail.com",
+    "url": "https://github.com/sanchan/react-awesome-placeholder"
+  },
+  "license": "MIT",
   "devDependencies": {
     "autoprefixer": "6.7.2",
     "babel-cli": "^6.24.1",
